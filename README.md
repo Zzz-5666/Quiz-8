@@ -7,10 +7,10 @@ Part 1: Imaging Technique Inspiration
 <<<<<<< HEAD
 I am inspired by liquid marbling and glass like refraction. I want the soft, flowing edges, translucent color overlaps, and tiny bubble like highlights that suggest depth. For my assignment I will borrow the idea of a continuously advected color field with a subtle “glass” sheen. This technique suits the brief because it is visually rich yet achievable, a 2D flow to move paint like colors, plus a lightweight refraction/highlight pass. Minimal interaction (mouse or touch) can nudge the flow and generate new compositions in real time. The particle like sparkles add contrast and keep the surface lively.
 
-![Particle Inspiration 1](https://unsplash.com/photos/map-coehWzQT1iw) Fluid reference
+![Particle Inspiration 1](https://unsplash.com/photos/map-coehWzQT1iw) or (![alt text](<assets/ Fluid.jpeg>) )Fluid reference
 Source: Unsplash 
 
-![Particle Inspiration 2](https://unsplash.com/photos/an-abstract-painting-of-a-blue-yellow-and-red-color-scheme-UsUfpYMBgRo) Particle reference 
+![Particle Inspiration 2](https://unsplash.com/photos/an-abstract-painting-of-a-blue-yellow-and-red-color-scheme-UsUfpYMBgRo) or(![alt text](assets/Particle.avif))Particle reference 
 Source: Unsplash
 
 Part 2: Coding Technique Exploration
